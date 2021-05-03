@@ -1,0 +1,15 @@
+.compare{
+    background-color:rgb(241, 239, 239) ;
+    
+}
+.container{
+    margin-top: 150px;
+}
+@media(max-width:1102px){
+    .compare{
+      height: auto;
+    }
+    .container{
+        margin-top: 110px;
+    }
+}

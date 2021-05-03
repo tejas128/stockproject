@@ -1,0 +1,20 @@
+.home{
+    background-color: rgb(241, 239, 239);
+   
+    height: 100vh;
+}
+.container{
+    margin-top: 80px;
+}
+.homepagetopText{
+    color: rgb(37, 37, 53);
+   
+}
+@media(max-width:1102px){
+   
+    .home-left{
+        display: none;
+    }
+    
+}
+
